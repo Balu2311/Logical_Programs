@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.exe
+G:\Bridgelab\LogicalPrograms\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.deps.json
+G:\Bridgelab\LogicalPrograms\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.dll
+G:\Bridgelab\LogicalPrograms\DayOfWeek\bin\Debug\netcoreapp3.1\DayOfWeek.pdb
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.dll
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.pdb
+G:\Bridgelab\LogicalPrograms\DayOfWeek\obj\Debug\netcoreapp3.1\DayOfWeek.genruntimeconfig.cache

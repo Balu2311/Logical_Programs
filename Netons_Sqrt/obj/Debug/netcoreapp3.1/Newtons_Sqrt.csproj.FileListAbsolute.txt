@@ -1,0 +1,12 @@
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\bin\Debug\netcoreapp3.1\Newtons_Sqrt.exe
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\bin\Debug\netcoreapp3.1\Newtons_Sqrt.deps.json
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\bin\Debug\netcoreapp3.1\Newtons_Sqrt.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\bin\Debug\netcoreapp3.1\Newtons_Sqrt.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\bin\Debug\netcoreapp3.1\Newtons_Sqrt.dll
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\bin\Debug\netcoreapp3.1\Newtons_Sqrt.pdb
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\obj\Debug\netcoreapp3.1\Newtons_Sqrt.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\obj\Debug\netcoreapp3.1\Newtons_Sqrt.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\obj\Debug\netcoreapp3.1\Newtons_Sqrt.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\obj\Debug\netcoreapp3.1\Newtons_Sqrt.dll
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\obj\Debug\netcoreapp3.1\Newtons_Sqrt.pdb
+G:\Bridgelab\LogicalPrograms\Netons_Sqrt\obj\Debug\netcoreapp3.1\Newtons_Sqrt.genruntimeconfig.cache

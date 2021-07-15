@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\ReverceNumber\bin\Debug\netcoreapp3.1\ReverceNumber.exe
+G:\Bridgelab\LogicalPrograms\ReverceNumber\bin\Debug\netcoreapp3.1\ReverceNumber.deps.json
+G:\Bridgelab\LogicalPrograms\ReverceNumber\bin\Debug\netcoreapp3.1\ReverceNumber.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\ReverceNumber\bin\Debug\netcoreapp3.1\ReverceNumber.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\ReverceNumber\bin\Debug\netcoreapp3.1\ReverceNumber.dll
+G:\Bridgelab\LogicalPrograms\ReverceNumber\bin\Debug\netcoreapp3.1\ReverceNumber.pdb
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.dll
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.pdb
+G:\Bridgelab\LogicalPrograms\ReverceNumber\obj\Debug\netcoreapp3.1\ReverceNumber.genruntimeconfig.cache

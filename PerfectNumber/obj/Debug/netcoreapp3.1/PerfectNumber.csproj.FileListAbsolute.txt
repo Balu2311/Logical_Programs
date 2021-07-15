@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.exe
+G:\Bridgelab\LogicalPrograms\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.deps.json
+G:\Bridgelab\LogicalPrograms\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.dll
+G:\Bridgelab\LogicalPrograms\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.pdb
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.dll
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.pdb
+G:\Bridgelab\LogicalPrograms\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.genruntimeconfig.cache

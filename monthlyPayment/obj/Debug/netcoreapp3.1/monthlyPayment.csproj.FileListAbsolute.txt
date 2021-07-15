@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\monthlyPayment\bin\Debug\netcoreapp3.1\monthlyPayment.exe
+G:\Bridgelab\LogicalPrograms\monthlyPayment\bin\Debug\netcoreapp3.1\monthlyPayment.deps.json
+G:\Bridgelab\LogicalPrograms\monthlyPayment\bin\Debug\netcoreapp3.1\monthlyPayment.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\monthlyPayment\bin\Debug\netcoreapp3.1\monthlyPayment.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\monthlyPayment\bin\Debug\netcoreapp3.1\monthlyPayment.dll
+G:\Bridgelab\LogicalPrograms\monthlyPayment\bin\Debug\netcoreapp3.1\monthlyPayment.pdb
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.dll
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.pdb
+G:\Bridgelab\LogicalPrograms\monthlyPayment\obj\Debug\netcoreapp3.1\monthlyPayment.genruntimeconfig.cache

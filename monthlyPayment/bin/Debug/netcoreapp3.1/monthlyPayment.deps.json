@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "monthlyPayment/1.0.0": {
+        "runtime": {
+          "monthlyPayment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "monthlyPayment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

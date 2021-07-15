@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.exe
+G:\Bridgelab\LogicalPrograms\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.deps.json
+G:\Bridgelab\LogicalPrograms\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.dll
+G:\Bridgelab\LogicalPrograms\CouponNumbers\bin\Debug\netcoreapp3.1\CouponNumbers.pdb
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.dll
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.pdb
+G:\Bridgelab\LogicalPrograms\CouponNumbers\obj\Debug\netcoreapp3.1\CouponNumbers.genruntimeconfig.cache

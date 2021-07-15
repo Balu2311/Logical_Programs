@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\bin\Debug\netcoreapp3.1\SimulateStopwatch.exe
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\bin\Debug\netcoreapp3.1\SimulateStopwatch.deps.json
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\bin\Debug\netcoreapp3.1\SimulateStopwatch.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\bin\Debug\netcoreapp3.1\SimulateStopwatch.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\bin\Debug\netcoreapp3.1\SimulateStopwatch.dll
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\bin\Debug\netcoreapp3.1\SimulateStopwatch.pdb
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.dll
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.pdb
+G:\Bridgelab\LogicalPrograms\SimulateStopwatch\obj\Debug\netcoreapp3.1\SimulateStopwatch.genruntimeconfig.cache

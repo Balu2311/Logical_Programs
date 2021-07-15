@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+G:\Bridgelab\LogicalPrograms\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+G:\Bridgelab\LogicalPrograms\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+G:\Bridgelab\LogicalPrograms\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+G:\Bridgelab\LogicalPrograms\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache

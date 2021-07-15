@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.exe
+G:\Bridgelab\LogicalPrograms\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.deps.json
+G:\Bridgelab\LogicalPrograms\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.dll
+G:\Bridgelab\LogicalPrograms\ToBinary\bin\Debug\netcoreapp3.1\ToBinary.pdb
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.dll
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.pdb
+G:\Bridgelab\LogicalPrograms\ToBinary\obj\Debug\netcoreapp3.1\ToBinary.genruntimeconfig.cache

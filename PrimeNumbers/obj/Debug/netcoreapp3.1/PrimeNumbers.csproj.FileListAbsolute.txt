@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.exe
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.deps.json
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.dll
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.pdb
+G:\Bridgelab\LogicalPrograms\PrimeNumbers\obj\Debug\netcoreapp3.1\PrimeNumbers.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+G:\Bridgelab\LogicalPrograms\SwapNibbles\bin\Debug\netcoreapp3.1\SwapNibbles.exe
+G:\Bridgelab\LogicalPrograms\SwapNibbles\bin\Debug\netcoreapp3.1\SwapNibbles.deps.json
+G:\Bridgelab\LogicalPrograms\SwapNibbles\bin\Debug\netcoreapp3.1\SwapNibbles.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\SwapNibbles\bin\Debug\netcoreapp3.1\SwapNibbles.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\SwapNibbles\bin\Debug\netcoreapp3.1\SwapNibbles.dll
+G:\Bridgelab\LogicalPrograms\SwapNibbles\bin\Debug\netcoreapp3.1\SwapNibbles.pdb
+G:\Bridgelab\LogicalPrograms\SwapNibbles\obj\Debug\netcoreapp3.1\SwapNibbles.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\SwapNibbles\obj\Debug\netcoreapp3.1\SwapNibbles.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\SwapNibbles\obj\Debug\netcoreapp3.1\SwapNibbles.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\SwapNibbles\obj\Debug\netcoreapp3.1\SwapNibbles.dll
+G:\Bridgelab\LogicalPrograms\SwapNibbles\obj\Debug\netcoreapp3.1\SwapNibbles.pdb
+G:\Bridgelab\LogicalPrograms\SwapNibbles\obj\Debug\netcoreapp3.1\SwapNibbles.genruntimeconfig.cache

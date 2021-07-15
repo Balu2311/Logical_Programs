@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\temperaturConversion\bin\Debug\netcoreapp3.1\temperaturConversion.exe
+G:\Bridgelab\LogicalPrograms\temperaturConversion\bin\Debug\netcoreapp3.1\temperaturConversion.deps.json
+G:\Bridgelab\LogicalPrograms\temperaturConversion\bin\Debug\netcoreapp3.1\temperaturConversion.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\temperaturConversion\bin\Debug\netcoreapp3.1\temperaturConversion.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\temperaturConversion\bin\Debug\netcoreapp3.1\temperaturConversion.dll
+G:\Bridgelab\LogicalPrograms\temperaturConversion\bin\Debug\netcoreapp3.1\temperaturConversion.pdb
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.dll
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.pdb
+G:\Bridgelab\LogicalPrograms\temperaturConversion\obj\Debug\netcoreapp3.1\temperaturConversion.genruntimeconfig.cache

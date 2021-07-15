@@ -1,0 +1,13 @@
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.exe
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.deps.json
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.runtimeconfig.json
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.runtimeconfig.dev.json
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.dll
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\bin\Debug\netcoreapp3.1\FibonacciSeries.pdb
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.csproj.AssemblyReference.cache
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.AssemblyInfoInputs.cache
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.AssemblyInfo.cs
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.csproj.CoreCompileInputs.cache
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.dll
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.pdb
+G:\Bridgelab\LogicalPrograms\FibonacciSeries\obj\Debug\netcoreapp3.1\FibonacciSeries.genruntimeconfig.cache
